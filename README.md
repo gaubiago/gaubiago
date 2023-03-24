@@ -3,6 +3,11 @@
 
 <!--
 
+Good tips for further customization of the profile page:
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t
+
+Cards to update every 4 hours.
+
 ### Hi there 👋
 
 **gaubiago/gaubiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
