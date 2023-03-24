@@ -1,6 +1,13 @@
-### Hi there 👋
+&emsp;&emsp;&emsp;
+[![My GitHub Stats](https://private-github-readme-stats-ebon.vercel.app/api/?username=gaubiago&count_private=true&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=My%20%GitHub%20%Stats)]()
+&emsp;&emsp;&emsp;&emsp;
+[![My GitHub Language Stats](https://private-github-readme-stats-ebon.vercel.app/api/top-langs/?username=gaubiago&count_private=true&layout=compact&theme=transparent&langs_count=10&include_all_commits=true&card_width=350px&hide_border=true&custom_title=Top&nbsp;10&nbsp;Languages%20%I've%20%Used)]()
+&emsp;&emsp;&emsp;
 
 <!--
+
+### Hi there 👋
+
 **gaubiago/gaubiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
