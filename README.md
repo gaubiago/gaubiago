@@ -3,12 +3,12 @@
 
 ### Progress on my OMSCS studies at Georgia Tech (GPA: 4.0)
 Courses completed:
- - CS 6250: Computer Networks
- - CS 6290: High Performance Computer Architecture
- - CS 6340: Software Analysis
+ - [CS 6250: Computer Networks](https://omscs.gatech.edu/cs-6250-computer-networks)
+ - [CS 6290: High Performance Computer Architecture](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
+ - [CS 6340: Software Analysis](https://omscs.gatech.edu/cs-6340-software-analysis)
 
 In progress:
- - CS 6291: Embedded Systems Optimization
+ - [CS 6291: Embedded Systems Optimization](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)
 
 ### CS-related courses taken at CSU Fullerton (GPA: 4.0)
  - CPSC 335: Algorithm Engineering
