@@ -10,7 +10,7 @@ Courses completed:
 In progress:
  - [CS 6291: Embedded Systems Optimization](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)
 
-### CS-related courses taken at CSU Fullerton (GPA: 4.0)
+### Computer Science courses taken at CSU Fullerton (GPA: 4.0)
  - CPSC 335: Algorithm Engineering
  - CPSC 351: Operating System Concepts
  - CPSC 362: Software Engineering
