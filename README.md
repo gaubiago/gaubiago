@@ -4,9 +4,6 @@
 ### Progress on my graduate studies at Georgia Tech (GPA: 4.0)
 
 #### In Progress
- - [CS 6210: Advanced Operating Systems](https://omscs.gatech.edu/cs-6210-advanced-operating-systems)
-
-#### Next
  - [CS 6515: Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
  - [CS 8803-O21: GPU Hardware and Software](https://omscs.gatech.edu/cs-8803-o21-gpu-hardware-and-software)
 
@@ -18,6 +15,7 @@
  - [CS 6200: Operating Systems](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
  - [CS 6035: Information Security](https://omscs.gatech.edu/cs-6035-introduction-to-information-security)
  - [CS 6400: Database Systems Concepts and Design](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design)
+ - [CS 6210: Advanced Operating Systems](https://omscs.gatech.edu/cs-6210-advanced-operating-systems)
  
 
 ### Computer Science courses taken at CSU Fullerton (GPA: 4.0)
