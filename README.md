@@ -9,12 +9,11 @@
  3. [CS 6340: Software Analysis](https://omscs.gatech.edu/cs-6340-software-analysis)
  4. [CS 6291: Embedded Systems Optimization](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)
  5. [CS 6200: Graduate Operating Systems](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
- 6. [CS 6035: Information Security](https://omscs.gatech.edu/cs-6035-introduction-to-information-security)
+ 6. [CS 6035: Information Security](https://omscs.gatech.edu/cs-6035-introduction-information-security)
  7. [CS 6400: Database Systems Concepts and Design](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design)
  8. [CS 6210: Advanced Operating Systems](https://omscs.gatech.edu/cs-6210-advanced-operating-systems)
  9. [CS 8803-O21: GPU Hardware and Software](https://omscs.gatech.edu/cs-8803-o21-gpu-hardware-and-software)
  10. [CS 6515: Graduate Algorithms](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)
- 
 
 ### Computer Science courses taken at CSU Fullerton (GPA: 4.00)
  - CPSC 335: Algorithm Engineering
