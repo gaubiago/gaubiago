@@ -1,9 +1,5 @@
-[![My GitHub Stats](https://github-readme-stats-phi-one-62.vercel.app/api/?username=gaubiago&count_private=true&hide_rank=true&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=My%20%GitHub%20%Stats)]()
-[![My GitHub Language Stats](https://github-readme-stats-phi-one-62.vercel.app/api/top-langs/?username=gaubiago&count_private=true&layout=compact&theme=transparent&langs_count=10&hide=GLSL,Forth,MATLAB,Jupyter%20%Notebook&include_all_commits=true&card_width=350px&hide_border=true&custom_title=Top&nbsp;10&nbsp;Languages%20%I've%20%Used)]()
+### M.S. in Computer Science at Georgia Tech &mdash; Computing Systems Specialization (GPA: 3.90)
 
-### Progress on my graduate studies at Georgia Tech (GPA: 3.90)
-
-#### ✅ Completed (in order)
  1. [CS 6250: Computer Networks](https://omscs.gatech.edu/cs-6250-computer-networks)
  2. [CS 6290: High Performance Computer Architecture](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
  3. [CS 6340: Software Analysis](https://omscs.gatech.edu/cs-6340-software-analysis)
